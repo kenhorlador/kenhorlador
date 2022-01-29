@@ -1,13 +1,15 @@
 <!-- Header -->
 <!-- ## "Hello World" 👋 -->
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"><h1>Hello, I'm <strong>\<Ken Horlador \/\> </strong> === <code>'a Tech Enthusiast'</code></h1>
+<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> -->
+
+<h1>Hello, I'm <strong>\<Ken Horlador \/\> </strong> === <code>'a Tech Enthusiast'</code></h1>
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
 
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
-<img align="right" height="250" width="400" alt="GIF" src="gif/code.gif">
+<img align="right" height="250" width="425" alt="GIF" src="gif/code.gif">
 
 <!-- Connect with Me -->
 <p>
@@ -47,8 +49,6 @@
 <!-- Github Stats -->
 
 <!-- ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats: -->
-
-<br>
 
 <!-- <details open="">
 <summary>
