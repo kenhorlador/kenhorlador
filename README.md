@@ -9,7 +9,7 @@
 
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
-<img align="right" height="250" width="500" alt="GIF" src="gif/code.gif">
+<a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="gif/code.gif"></a>
 
 <!-- Connect with Me -->
 <p>
@@ -61,16 +61,18 @@
 
 <br>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=true&hide_border=false&title_color=FFFF80&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=FFFF80&langs_count=15&layout=compact&hide_border=false" />
+    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=true&hide_border=false&title_color=FFFF80&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
+    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=FFFF80&langs_count=15&layout=compact&hide_border=false" /></a>
 </p>
 </details>
 
 <!-- Contribution Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655">
+
+<a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
 
 <!-- Footer -->
-<img src="webp/footer.webp" width="100%">
+
+<a href="https://github.com/kenhorlador"><img src="webp/footer.webp" width="100%"></a>
 
 ```
  𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
