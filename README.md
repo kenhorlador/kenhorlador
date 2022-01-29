@@ -9,7 +9,7 @@
 
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
-<img align="right" height="250" width="425" alt="GIF" src="gif/code.gif">
+<img align="right" height="250" width="500" alt="GIF" src="gif/code.gif">
 
 <!-- Connect with Me -->
 <p>
