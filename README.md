@@ -7,7 +7,25 @@
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
 
+<!-- Header -->
+
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
+
+<!-- Github Status -->
+<h2><strong>My Contribution Graph and Github Stats</strong></h2>
+
+<!-- Contribution Graph -->
+
+<a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
+
+<!-- Github Stats -->
+<p align="center">
+    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=true&hide_border=false&title_color=FFFF80&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
+    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=FFFF80&langs_count=15&layout=compact&hide_border=false" /></a>
+</p>
+</details>
+
+<!-- Gif (girl with laptop) -->
 
 <a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="gif/code.gif"></a>
 
@@ -27,11 +45,17 @@
 
 <h2><strong>About me</strong></h2>
 
-- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I have 2 years of experience as a Layout Artist, a year in <a href="https://web.facebook.com/theusifacade">The USI-Facade</a> and also a year in <a href="https://web.facebook.com/thesparkpub">TheSpark</a>. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/">ReactJS</a> with <a href="https://www.gatsbyjs.com/">GatsbyJS</a> or <a href="https://nextjs.org/">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
+- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/">ReactJS</a> with <a href="https://www.gatsbyjs.com/">GatsbyJS</a> or <a href="https://nextjs.org/">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
 
 - Currently taking Bachelor of Science in Computer Science at <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges.</a>
 
-- Currently working as a Layout Artist at <a href="">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a>
+- Former Layout Artist at <a href="https://www.facebook.com/theusifacade">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
+
+- Currently working as a Layout Artist at <a href="">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
+
+- Personality type: <strong>INTJ</strong> ( Introverted, Intuitive, Thinking, Judging )
+
+- Pronouns: <strong>He/Him/His</strong>
 
 <hr>
 <!-- Current -->
@@ -56,27 +80,16 @@
   <h2><strong>My Github Stats</strong></h2>
 </summary> -->
 
-<!-- Github Status -->
-<h2><strong>My Github Status</strong></h2>
-
-<br>
-<p align="center">
-    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=true&hide_border=false&title_color=FFFF80&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
-    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=FFFF80&langs_count=15&layout=compact&hide_border=false" /></a>
-</p>
-</details>
-
-<!-- Contribution Graph -->
-
-<a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
+<!-- Changing Data GIF -->
+<img src="gif/changing-data.gif" width="100%" height="150">
 
 <!-- Footer -->
 
 <a href="https://github.com/kenhorlador"><img src="webp/footer.webp" width="100%"></a>
 
-```
- 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-```
+<br>
+
+<strong>𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</strong>
 
 <!-- <a href="https://github.com/kenhorlador"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a> -->
 
