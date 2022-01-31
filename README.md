@@ -51,7 +51,7 @@
 
 - Former Layout Artist at <a href="https://www.facebook.com/theusifacade">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
 
-- Currently working as a Layout Artist at <a href="">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
+- Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
 
 - Personality type: <strong>INTJ</strong> ( Introverted, Intuitive, Thinking, Judging )
 
