@@ -15,12 +15,13 @@
 <h2 align="center"><strong>My Github Stats and Contribution Graph</strong></h2>
 
 <!-- Streak Stats -->
+<a href="https://github.com/kenhorlador">
 <p align="center">
   <img height="150" width="150" src="webp/left-wing.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kenhorlador&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=2E0655&stroke=DDDDDD&border=DDDDDD&dates=919191&ring=F4FF01&fire=F4FF01&currStreakNum=F4FF01&sideNums=F4FF01"/>
   <img height="150" width="150" src="webp/right-wing.webp">
 </p>
-
+</a>
 <!-- Github Stats -->
 <p align="center">
     <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
