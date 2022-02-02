@@ -3,7 +3,7 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> -->
 
-<h1>Hello, I'm <strong>&lt;Ken Horlador /&gt; </strong> === 'a Tech Enthusiast'</h1>
+<h1>Hello, I'm <strong>&lt;Ken Horlador value="Tech Enthusiast" /&gt;</strong></h1>
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
 
@@ -12,17 +12,25 @@
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
 <!-- Github Status -->
-<h2><strong>My Contribution Graph and Github Stats</strong></h2>
+<h2 align="center"><strong>My Github Stats and Contribution Graph</strong></h2>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img height="150" width="150" src="webp/left-wing.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kenhorlador&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=2E0655&stroke=DDDDDD&border=DDDDDD&dates=919191&ring=F4FF01&fire=F4FF01&currStreakNum=F4FF01&sideNums=F4FF01"/>
+  <img height="150" width="150" src="webp/right-wing.webp">
+</p>
+
+<!-- Github Stats -->
+<p align="center">
+    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
+    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=F4FF01&langs_count=15&layout=compact&hide_border=false" /></a>
+</p>
 
 <!-- Contribution Graph -->
 
 <a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
 
-<!-- Github Stats -->
-<p align="center">
-    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=true&hide_border=false&title_color=FFFF80&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
-    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=FFFF80&langs_count=15&layout=compact&hide_border=false" /></a>
-</p>
 </details>
 
 <!-- Gif (girl with laptop) -->
@@ -57,7 +65,6 @@
 
 - Pronouns: <strong>He/Him/His</strong>
 
-<hr>
 <!-- Current -->
 
 <!-- - 🌱 I'm currently learning Javascript, <a href="https://reactjs.org/">ReactJS</a>, <a href="https://nextjs.org">NextJS</a>, <a href="https://threejs.org">ThreeJS</a>, <a href="https://get.webgl.org/">WebGL</a>, and Physics to develop optimized software applications and to render both 2-Dimensional and 3-Dimensional objects in the screen.
