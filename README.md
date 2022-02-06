@@ -3,7 +3,7 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> -->
 
-<h1>Hello, I'm <strong>&lt;Ken Horlador children="Tech Enthusiast" /&gt;</strong></h1>
+<h1>Hello, I'm a <strong>&lt;TechEnthusiast children="Ken Horlador" /&gt;</strong></h1>
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
 
