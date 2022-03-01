@@ -56,7 +56,7 @@
 
 - I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/">ReactJS</a> with <a href="https://www.gatsbyjs.com/">GatsbyJS</a> or <a href="https://nextjs.org/">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
 
-- Currently taking Bachelor's of Science in Computer Science at <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges.</a>
+- Currently taking Bachelor of Science in Computer Science at <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges.</a>
 
 - Former Layout Artist at <a href="https://www.facebook.com/theusifacade">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
 
