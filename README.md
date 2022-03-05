@@ -3,7 +3,7 @@
 
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> -->
 
-<h1>Hello, I'm a <strong>&lt;OSSadvocate children={ kenhorlador } /&gt;</strong></h1>
+<h1>Hello, I'm an <strong>&lt;OSSadvocate children={ kenhorlador } /&gt;</strong></h1>
 
 <!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
 
