@@ -54,13 +54,13 @@
 
 <h2><strong>About me</strong></h2>
 
-- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/">ReactJS</a> with <a href="https://www.gatsbyjs.com/">GatsbyJS</a> or <a href="https://nextjs.org/">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
+- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/" target="_blank">ReactJS</a> with <a href="https://www.gatsbyjs.com/" target="_blank">GatsbyJS</a> or <a href="https://nextjs.org/" target="_blank">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
 
-- Currently taking Bachelor of Science in Computer Science at <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges.</a>
+- Currently taking Bachelor of Science in Computer Science in <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges.</a>
 
-- Former Layout Artist at <a href="https://www.facebook.com/theusifacade">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
+- Former Layout Artist at <a href="https://www.facebook.com/theusifacade" target="_blank">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/" target="_blank">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
 
-- Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
+- Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub" target="_blank">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
 
 - Personality type: <strong>INTJ</strong> ( Introverted, Intuitive, Thinking, Judging )
 
