@@ -44,7 +44,7 @@
     <p>
         <!-- Facebook --><a href="https://web.facebook.com/kenhorlador/"><img src="https://image.flaticon.com/icons/png/512/733/733547.png" width="40"></a>
         <!-- Instagram --><a href="https://www.instagram.com/kenhorlador"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"></a>
-        <!-- Twitter --><a href="https://twitter.com/kenhorlador"><img src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg" width="40"></a>
+        <!-- Twitter --><a href="https://twitter.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" width="40"></a>
         <!-- LinkedIn --><a href="https://www.linkedin.com/in/ken-horlador-075024203/"><img src="https://image.flaticon.com/icons/png/512/1409/1409945.png" width="40"></a>
         <!-- Behance --><a href="https://www.behance.net/ken_horlador"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-behance-2.png" width="40"></a>
         <!-- Dribbble --><a href= "https://dribbble.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="40"></a>
