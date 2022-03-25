@@ -1,14 +1,8 @@
 <!-- Header -->
-<!-- ## "Hello World" 👋 -->
-
-<!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> -->
 
 <h1>Hello, I'm an <strong>&lt;OSSadvocate children={ kenhorlador } /&gt;</strong></h1>
 
-<!-- ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px"> Also, a Layout Artist -->
-
 <!-- Header -->
-
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
 <!-- Github Status -->
@@ -22,6 +16,7 @@
   <img height="150" width="150" src="webp/right-wing.webp">
 </p>
 </a>
+
 <!-- Github Stats -->
 <p align="center">
     <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
@@ -35,7 +30,6 @@
 </details>
 
 <!-- Gif (girl with laptop) -->
-
 <a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="gif/code.gif"></a>
 
 <!-- Connect with Me -->
@@ -52,6 +46,7 @@
     </p>
 </p>
 
+<!-- About me -->
 <h2><strong>About me</strong></h2>
 
 - I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/" target="_blank">ReactJS</a> with <a href="https://www.gatsbyjs.com/" target="_blank">GatsbyJS</a> or <a href="https://nextjs.org/" target="_blank">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
@@ -66,44 +61,19 @@
 
 - Pronouns: <strong>He/Him/His</strong>
 
-<!-- Current -->
-
-<!-- - 🌱 I'm currently learning Javascript, <a href="https://reactjs.org/">ReactJS</a>, <a href="https://nextjs.org">NextJS</a>, <a href="https://threejs.org">ThreeJS</a>, <a href="https://get.webgl.org/">WebGL</a>, and Physics to develop optimized software applications and to render both 2-Dimensional and 3-Dimensional objects in the screen.
-
-- 🌱 Currently taking BS Computer Science in <a href="https://cspc.edu.ph/">Camarines Sur Polytechnic Colleges</a>
-  -->
-<!-- <hr> -->
-
-<!-- GIF -->
-
-<!-- <a href="https://github.com/kenhorlador"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a> -->
-
-<!-- Github Stats -->
-
-<!-- ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats: -->
-
-<!-- <details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <h2><strong>My Github Stats</strong></h2>
-</summary> -->
+- Favorite Quote/s: <strong>"Software eventually and necessarily gained the same respect as any other discipline."</strong> ~ Margaret H. Hamilton
 
 <!-- Changing Data GIF -->
 <img src="gif/changing-data.gif" width="100%" height="150">
 
 <!-- Footer -->
-
 <a href="https://github.com/kenhorlador"><img src="webp/footer.webp" width="100%"></a>
 
 <br>
 
 <strong>𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</strong>
 
-<!-- <a href="https://github.com/kenhorlador"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></a> -->
-
-<!--
-**kenhorlador/kenhorlador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
