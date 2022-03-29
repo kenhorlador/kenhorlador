@@ -61,7 +61,7 @@
 
 - Pronouns: <strong>He/Him/His</strong>
 
-- Favorite Quote/s: <strong>"Software eventually and necessarily gained the same respect as any other discipline."</strong> ~ Margaret H. Hamilton
+- Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
 
 <!-- Changing Data GIF -->
 <img src="gif/changing-data.gif" width="100%" height="150">
