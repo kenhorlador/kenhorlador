@@ -3,6 +3,7 @@
 <h1>Hello, I'm an <strong>&lt;OSSadvocate children={ kenhorlador } /&gt;</strong></h1>
 
 <!-- Header -->
+
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
 <!-- Github Status -->
@@ -30,7 +31,8 @@
 </details>
 
 <!-- Gif (girl with laptop) -->
-<a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="gif/code.gif"></a>
+
+<a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"></a>
 
 <!-- Connect with Me -->
 <p>
@@ -64,16 +66,17 @@
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
 
 <!-- Changing Data GIF -->
-<img src="gif/changing-data.gif" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/changing-data.gif" width="100%" height="150">
 
 <!-- Footer -->
+
 <a href="https://github.com/kenhorlador"><img src="webp/footer.webp" width="100%"></a>
 
 <br>
 
 <strong>𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</strong>
 
-<!-- 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
