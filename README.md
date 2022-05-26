@@ -6,34 +6,6 @@
 
 <a href="https://github.com/kenhorlador"><img src="webp/github-header.webp"></a>
 
-<!-- Github Status -->
-<h2 align="center"><strong>My Github Stats and Contribution Graph</strong></h2>
-
-<!-- Streak Stats -->
-<a href="https://github.com/kenhorlador">
-<p align="center">
-  <img height="150" width="150" src="webp/left-wing.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kenhorlador&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=2E0655&stroke=DDDDDD&border=DDDDDD&dates=919191&ring=F4FF01&fire=F4FF01&currStreakNum=F4FF01&sideNums=F4FF01"/>
-  <img height="150" width="150" src="webp/right-wing.webp">
-</p>
-</a>
-
-<!-- Github Stats -->
-<p align="center">
-    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
-    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=F4FF01&langs_count=15&layout=compact&hide_border=false" /></a>
-</p>
-
-<!-- Contribution Graph -->
-
-<a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
-
-</details>
-
-<!-- Gif (girl with laptop) -->
-
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"> -->
-
 <!-- Connect with Me -->
 <p>
   <h2><strong>Connect with me:</strong></h2>
@@ -64,6 +36,37 @@
 - Pronouns: <strong>He/Him/His</strong>
 
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
+
+
+<!-- Github Status -->
+<h2 align="center"><strong>My Github Stats and Contribution Graph</strong></h2>
+
+<!-- Streak Stats -->
+<a href="https://github.com/kenhorlador">
+<p align="center">
+  <img height="150" width="150" src="webp/left-wing.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kenhorlador&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=2E0655&stroke=DDDDDD&border=DDDDDD&dates=919191&ring=F4FF01&fire=F4FF01&currStreakNum=F4FF01&sideNums=F4FF01"/>
+  <img height="150" width="150" src="webp/right-wing.webp">
+</p>
+</a>
+
+<!-- Github Stats -->
+<p align="center">
+    <a href="https://github.com/kenhorlador"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kenhorlador&show_icons=false&hide_border=false&title_color=F4FF01&amp&icon_color=FFFF80&amp&text_color=FFFFFF&amp&bg_color=2E0655&count_private=true&include_all_commits=true"/></a>
+    <a href="https://github.com/kenhorlador"><img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenhorlador&text_color=FFFFFF&bg_color=2E0655&title_color=F4FF01&langs_count=15&layout=compact&hide_border=false" /></a>
+</p>
+
+<!-- Contribution Graph -->
+
+<a href="https://github.com/kenhorlador"><img src="https://activity-graph.herokuapp.com/graph?username=kenhorlador&hide_border=false&area=true&bg_color=2E0655"></a>
+
+</details>
+
+<!-- Gif (girl with laptop) -->
+
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"> -->
+
+
 
 <!-- Changing Data GIF -->
 <!-- <img src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/changing-data.gif" width="100%" height="150"> -->
