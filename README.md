@@ -32,7 +32,7 @@
 
 <!-- Gif (girl with laptop) -->
 
-<a href="https://www.github.com/kenhorlador"><img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"></a>
+<!-- <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"> -->
 
 <!-- Connect with Me -->
 <p>
@@ -66,7 +66,7 @@
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
 
 <!-- Changing Data GIF -->
-<img src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/changing-data.gif" width="100%" height="150">
+<!-- <img src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/changing-data.gif" width="100%" height="150"> -->
 
 <!-- Footer -->
 
