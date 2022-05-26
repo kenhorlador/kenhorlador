@@ -42,7 +42,7 @@
         <!-- Instagram --><a href="https://www.instagram.com/kenhorlador"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"></a>
         <!-- Twitter --><a href="https://twitter.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" width="40"></a>
         <!-- LinkedIn --><a href="https://www.linkedin.com/in/ken-horlador-075024203/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="40"></a>
-        <!-- Behance --><a href="https://www.behance.net/kenhorlador"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-behance-2.png" width="40"></a>
+        <!-- Behance --><a href="https://www.behance.net/kenhorlador"><img src="https://cdn.worldvectorlogo.com/logos/behance.svg" width="40"></a>
         <!-- Dribbble --><a href= "https://dribbble.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="40"></a>
         <!-- Stack Overflow --><a href="https://stackoverflow.com/users/16571603/ken-horlador?tab=profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/stackoverflow-color.png" width="40"></a>
     </p>
