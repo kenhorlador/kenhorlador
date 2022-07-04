@@ -31,12 +31,9 @@
 
 - Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub" target="_blank">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
 
-- Personality type: <strong>INTJ</strong> ( Introverted, Intuitive, Thinking, Judging )
-
 - Pronouns: <strong>He/Him/His</strong>
 
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
-
 
 <!-- Github Status -->
 <h2 align="center"><strong>My Github Stats and Contribution Graph</strong></h2>
@@ -65,8 +62,6 @@
 <!-- Gif (girl with laptop) -->
 
 <!-- <img align="right" height="250" width="400" alt="GIF" src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/code.gif"> -->
-
-
 
 <!-- Changing Data GIF -->
 <!-- <img src="https://raw.githubusercontent.com/kenhorlador/kenhorlador/main/gif/changing-data.gif" width="100%" height="150"> -->
