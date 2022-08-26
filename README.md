@@ -45,7 +45,7 @@
         <!-- LinkedIn --><a href="https://www.linkedin.com/in/ken-horlador-075024203/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="40"></a>
         <!-- Behance --><a href="https://www.behance.net/kenhorlador"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" width="40"></a>
         <!-- Dribbble --><a href= "https://dribbble.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="40"></a>
-        <!-- Stack Overflow --><a href="https://stackoverflow.com/users/16571603/ken-horlador?tab=profile"><img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/stackoverflow-color.png" width="40"></a>
+        <!-- Stack Overflow --><a href="https://stackoverflow.com/users/16571603/ken-horlador?tab=profile"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/stackoverflow_tile_logo_icon_167969.png" width="40"></a>
     </p>
 </p>
 
@@ -54,11 +54,11 @@
 
 - I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/" target="_blank">ReactJS</a> with <a href="https://www.gatsbyjs.com/" target="_blank">GatsbyJS</a> or <a href="https://nextjs.org/" target="_blank">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
 
-- Currently taking Bachelor of Science in Computer Science in <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges.</a>
+- Currently pursuing Bachelor of Science in Computer Science in <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges.</a>
 
-- Former Layout Artist at <a href="https://www.facebook.com/theusifacade" target="_blank">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/" target="_blank">Universidad de Sta. Isabel</a> <strong>[ 2019 - 2020 ]</strong>
+- Former Layout Artist at <a href="https://www.facebook.com/theusifacade" target="_blank">The USI-Façade | The Official Student Publication</a> of <a href="https://www.usi.edu.ph/" target="_blank">Universidad de Sta. Isabel</a> 
 
-- Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub" target="_blank">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges</a> <strong>[ 2020 - <i>Present</i> ]</strong>
+- Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub" target="_blank">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges</a> 
 
 - Pronouns: <strong>He/Him/His</strong>
 
