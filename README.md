@@ -39,7 +39,7 @@
 <p>
   <h2><strong>Connect with me:</strong></h2>
     <p>
-        <!-- Facebook --><a href="https://web.facebook.com/kenhorlador/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40"></a>
+        <!-- Facebook --><a href="https://web.facebook.com/ken.horlador/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="40"></a>
         <!-- Instagram --><a href="https://www.instagram.com/kenhorlador"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"></a>
         <!-- Twitter --><a href="https://twitter.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png" width="40"></a>
         <!-- LinkedIn --><a href="https://www.linkedin.com/in/ken-horlador-075024203/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="40"></a>
