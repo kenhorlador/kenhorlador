@@ -64,8 +64,6 @@
 
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
 
-Height = 25mm (Width top: 5, Length curve: 17.375, Height curve: 15.155mm, Full length 24.434, Start curve: 7.227)
-
 <!-- Footer -->
 
 <a href="https://github.com/kenhorlador"><img src="webp/footer.webp" width="100%"></a>
