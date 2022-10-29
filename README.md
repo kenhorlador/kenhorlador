@@ -45,6 +45,7 @@
         <!-- LinkedIn --><a href="https://www.linkedin.com/in/ken-horlador-075024203/"><img src="https://www.freepnglogos.com/uploads/linkedin-basic-round-social-logo-png-13.png" width="40"></a>
         <!-- Behance --><a href="https://www.behance.net/kenhorlador"><img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" width="40"></a>
         <!-- Dribbble --><a href= "https://dribbble.com/kenhorlador"><img src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" width="40"></a>
+        <!-- Leetcode --><a href= "https://leetcode.com/kenhorlador"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"></a>
         <!-- Stack Overflow --><a href="https://stackoverflow.com/users/16571603/ken-horlador?tab=profile"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/stackoverflow_tile_logo_icon_167969.png" width="40"></a>
     </p>
 </p>
