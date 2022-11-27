@@ -53,7 +53,7 @@
 <!-- About me -->
 <h2><strong>About me</strong></h2>
 
-- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines. I enjoy learning programming languages and libraries/frameworks like <a href="https://reactjs.org/" target="_blank">ReactJS</a> with <a href="https://www.gatsbyjs.com/" target="_blank">GatsbyJS</a> or <a href="https://nextjs.org/" target="_blank">NextJS</a>. I also enjoy wireframing, developing user flows, user interface, user experience and design in general.
+- I'm <strong>Ken Horlador</strong> from Camarines Sur, Philippines I enjoy wireframing, developing user flows, user interface, user experience and design in general.
 
 - Currently pursuing Bachelor of Science in Computer Science in <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges.</a>
 
