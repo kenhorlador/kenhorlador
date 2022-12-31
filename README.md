@@ -61,8 +61,6 @@
 
 - Currently working as a Layout Artist at <a href="https://www.facebook.com/thesparkpub" target="_blank">TheSpark | The Official Student-Community Publication</a> of <a href="https://cspc.edu.ph/" target="_blank">Camarines Sur Polytechnic Colleges</a> 
 
-- Pronouns: <strong>He/Him/His</strong>
-
 - Favorite Quote/s: <strong>"Looking back, we were the luckiest people in the world. There was no choice but to be pioneers; no time to be beginners."</strong> ~ Margaret H. Hamilton
 
 <!-- Footer -->
