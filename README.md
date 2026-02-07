@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<h1>Hello, I'm an <strong>&lt;OSSadvocate children={ kenhorlador } /&gt;</strong></h1>
+<h1>KEN BARRAMEDA HORLADOR (Agentic AI Engineer)</h1>
 
 <!-- Header -->
 
